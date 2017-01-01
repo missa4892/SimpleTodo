@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Todo</string>
+    <string name="add">Add</string>
+    <string name="addItem">Add a new item</string>
+    <string name="editTextItem">Edit Item Below:</string>
+    <string name="saveText">Save</string>
+    <string name="updatedListText">Updated To-Do List</string>
+</resources>
